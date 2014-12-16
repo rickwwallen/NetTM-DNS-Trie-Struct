@@ -13,10 +13,11 @@ compile, though the code is in a state for testing.
 
 Directory name and files:
 ../ricks_netfpga_dns/
+|-- Makefile
+|-- README.md
 |-- dev.c
 |-- dev.h
 |-- dns_netfpga.h
-|-- Makefile
 |-- rick_hello.c
 |-- ricks_netfpga_dns.c
 |-- shared_functions_netfpga.c
