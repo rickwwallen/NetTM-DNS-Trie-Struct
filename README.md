@@ -27,7 +27,7 @@ Directory name and files:
 		|-- triez_netfpga.c
 		`-- triez_netfpga.h
 
-This goes in src/bench/ altered to remove the embed generated file for make clean.
+This goes in src/bench/ altered to remove the embed generated file for make embed_clean.
 
 		../
 		|-- footer.mk
